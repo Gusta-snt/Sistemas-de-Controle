@@ -52,8 +52,8 @@ Sinta-se à vontade para contribuir com melhorias, correções ou novos exemplos
 ---
 
 ## 🛠️ Autores
-**Nome:** Gustavo Ferreira dos Santos 
-**Github:** [Gusta-snt](https://github.com/Gusta-snt)
+**Nome:** Gustavo Ferreira dos Santos <br>
+**Github:** [Gusta-snt](https://github.com/Gusta-snt) <br>
 **Linkedin:** [gustavo-santosfr](https://www.linkedin.com/in/gustavo-santosfr/)
 
 
