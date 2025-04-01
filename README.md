@@ -18,7 +18,7 @@ O objetivo deste material é fornecer uma explicação clara e concisa dos princ
 ## 🛠️ Tecnologias Utilizadas
 - **Python 3**
 - **Jupyter Notebook**
-- **Bibliotecas**: `numpy`, `matplotlib`, `sympy`, `control`
+- **Bibliotecas**: `numpy`, `matplotlib`, `control`
 
 ## 📚 Conteúdo
 
