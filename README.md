@@ -1,6 +1,6 @@
 # Sistemas de Controle com Python ⚙️📊
 
-📅 **Última atualização:** 17/03/2025
+📅 **Última atualização:** 17/03/2025 <br>
 📌 **Licença:** MIT
 
 Este repositório contém instruções resumidas à disciplina de **Sistemas de Controle**, utilizando **Python** no formato de **Jupyter Notebooks** para demonstrações práticas.
