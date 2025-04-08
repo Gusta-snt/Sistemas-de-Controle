@@ -1,2 +1,4 @@
 control
-sympy
+matplotlib
+numpy
+pandas
